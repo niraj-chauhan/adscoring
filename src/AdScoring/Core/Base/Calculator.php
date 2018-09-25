@@ -1,6 +1,6 @@
 <?php
 
-namespace AdScoring\Core\Base\Calculator;
+namespace AdScoring\Core\Base;
 
 class Calculator {
 	function __construct()
