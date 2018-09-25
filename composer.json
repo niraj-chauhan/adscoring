@@ -8,13 +8,13 @@
     "authors": [
         {
             "name": "Niraj Chauhan",
-            "email": "niraj.chauhan@russmediatech.in"
-            "homepage": "https://www.russmediatech.in/about.html"
+            "email": "niraj.chauhan@russmediatech.in",
+            "homepage": "https://www.russmediatech.in/about.html",
             "role": "Developer"
         },
         {
             "name": "Mitesh Vasava",
-            "homepage": "https://www.russmediatech.in/about.html"
+            "homepage": "https://www.russmediatech.in/about.html",
             "role": "Tester"
         }
     ],
