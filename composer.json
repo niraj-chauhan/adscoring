@@ -21,7 +21,7 @@
     "autoload": {
         "psr-0": { "AdScoring\\": "src/" },
         "classmap": [
-            "src/AdScoring/Core/Base",
+            "src/AdScoring/Core/Base"
         ],
         "exclude-from-classmap": [
             "**/Tests/"
