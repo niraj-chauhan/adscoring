@@ -1,7 +1,7 @@
 {
-    "name": "niraj-symfony/symfony-23",
+    "name": "niraj-russmediatech/adscoring",
     "type": "library",
-    "description": "Symfony 2.3.42 Further Extend for testing purpose",
+    "description": "Ad Scoring Functionality",
     "keywords": ["framework"],
     "homepage": "https://www.russmediatech.in",
     "license": "MIT",
@@ -9,10 +9,13 @@
         {
             "name": "Niraj Chauhan",
             "email": "niraj.chauhan@russmediatech.in"
+            "homepage": "https://www.russmediatech.in/about.html"
+            "role": "Developer"
         },
         {
-            "name": "Symfony Community",
-            "homepage": "https://symfony.com/contributors"
+            "name": "Mitesh Vasava",
+            "homepage": "https://www.russmediatech.in/about.html"
+            "role": "Tester"
         }
     ],
     "require": {
