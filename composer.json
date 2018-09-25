@@ -1,14 +1,14 @@
 {
     "name": "niraj-symfony/symfony-23",
     "type": "library",
-    "description": "The Symfony PHP framework",
+    "description": "Symfony 2.3.42 Further Extend for testing purpose",
     "keywords": ["framework"],
-    "homepage": "https://symfony.com",
+    "homepage": "https://www.russmediatech.in",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
+            "name": "Niraj Chauhan",
+            "email": "niraj.chauhan@russmediatech.in"
         },
         {
             "name": "Symfony Community",
