@@ -11,11 +11,6 @@
             "email": "niraj.chauhan@russmediatech.in",
             "homepage": "https://www.russmediatech.in/about.html",
             "role": "Developer"
-        },
-        {
-            "name": "Mitesh Vasava",
-            "homepage": "https://www.russmediatech.in/about.html",
-            "role": "Tester"
         }
     ],
     "require": {
