@@ -3,14 +3,14 @@
     "type": "library",
     "description": "Ad Scoring Functionality",
     "keywords": ["framework"],
-    "homepage": "https://www.russmediatech.in",
+    "homepage": "https://nhchauhan.io",
     "license": "MIT",
     "authors": [
         {
             "name": "Niraj Chauhan",
-            "email": "niraj.chauhan@russmediatech.in",
-            "homepage": "https://www.russmediatech.in/about.html",
-            "role": "Developer"
+            "email": "hello@nhchauhan.io",
+            "homepage": "https://nhchauhan.io",
+            "role": "Tech Lead"
         }
     ],
     "require": {
