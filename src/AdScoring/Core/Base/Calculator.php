@@ -3,7 +3,7 @@
 namespace AdScoring\Core\Base;
 
 class Calculator {
-	function __construct()
+    function __construct()
     {
         echo "\nThis is Calculator constructor\n";
     }
